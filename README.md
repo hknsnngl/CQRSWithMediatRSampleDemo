@@ -12,6 +12,7 @@
   
   
 ### Yararlandığım Kaynaklar
-[https://martinfowler.com/bliki/CQRS.html]
-[https://jayanttripathy.com/cqrs-pattern-with-mediatr-in-asp-net-core-5-0/]
+[https://martinfowler.com/bliki/CQRS.html] (https://martinfowler.com/bliki/CQRS.html)
+
+[https://jayanttripathy.com/cqrs-pattern-with-mediatr-in-asp-net-core-5-0/] (https://jayanttripathy.com/cqrs-pattern-with-mediatr-in-asp-net-core-5-0/)
   
