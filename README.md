@@ -1,6 +1,6 @@
 # Using CQRS With MediatR In .NET
 
- ## CQRS (Command Query Responsibility Segregation - Komut Sorgu Sorumluluğu Ayrımı)
+ ### CQRS (Command Query Responsibility Segregation - Komut Sorgu Sorumluluğu Ayrımı)
   
   Bir veri kaynağının okuma ve yazma işlemlerini ayıran bir tasarım modelidir.
   
@@ -11,6 +11,7 @@
   
   
   
+### Yararlandığım Kaynaklar
+https://martinfowler.com/bliki/CQRS.html
 
-[1]:https://martinfowler.com/bliki/CQRS.html
-[2]: https://jayanttripathy.com/cqrs-pattern-with-mediatr-in-asp-net-core-5-0/
+https://jayanttripathy.com/cqrs-pattern-with-mediatr-in-asp-net-core-5-0/
